@@ -1,0 +1,8 @@
+{
+  "name": "VeloPro - Professional Cycling Companion",
+  "description": "A high-performance cycling tracker and social platform featuring real-time GPS tracking, advanced performance analytics, and AI-driven coaching insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
